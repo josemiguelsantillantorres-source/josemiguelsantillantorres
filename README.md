@@ -1,4 +1,4 @@
-# josemiguelsantillantorres
+# Primer Repositorio
 emplea frameworks para el desarrollo de software
-Proyeto de programacion
-JoseMiguelSantillanTorres
+programacion 3°B
+Jose Miguel Santillan Torres
